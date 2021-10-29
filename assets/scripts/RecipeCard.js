@@ -153,19 +153,6 @@ class RecipeCard extends HTMLElement {
     this.shadowRoot.appendChild(card);
 
 
-
-
-    // // Part 1 Expose - TODO
-    // if (searchForKey(data, "ratingValue") == undefined) {
-    //   console.log("No review");
-    // } else {
-    //   console.log(searchForKey(data, "ratingValue"));
-    // }
-
-
-
-
-
     // Some functions that will be helpful here:
     //    document.createElement()
     //    document.querySelector()
