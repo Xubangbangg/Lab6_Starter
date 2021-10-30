@@ -1,0 +1,136 @@
+{
+    "canonicalUrl": "https://www.delish.com/holiday-recipes/halloween/a29007809/boozy-screamsicle-shakes-recipe/",
+    "locale": {
+        "language": "en-US",
+        "urlPath": ""
+    },
+    "site": {
+        "name": "Delish",
+        "domain": "www.delish.com",
+        "dartZone": "",
+        "icxSiteId": "1782"
+    },
+    "content": {
+        "authors": [
+            "Lena Abraham"
+        ],
+        "adCategory": {
+            "id": "6b1fbda2-4853-4e4c-90e3-e47767f04d76",
+            "name": "Recipes",
+            "prefix": "recipes"
+        },
+        "autoSocial": "never",
+        "contentType": "Recipes",
+        "collections": [
+            {
+                "id": "27f28eea-6af7-492e-b876-c95e647cbe74",
+                "name": "100+ Easy Fall Recipes",
+                "url": "fall-recipes"
+            },
+            {
+                "id": "6638a844-7657-44fb-b0b7-04412356787f",
+                "name": "Boozetown",
+                "url": "best-cocktail-recipes"
+            }
+        ],
+        "createdDate": {
+            "year": "2019",
+            "month": "09",
+            "day": "11",
+            "hour": "20",
+            "minute": "12"
+        },
+        "displayType": "Recipe",
+        "display_id": "29007809",
+        "embeddedMedia": {
+            "video": {
+                "aol": 0,
+                "abcvideo": 0,
+                "funnyordie": 0,
+                "hulu": 0,
+                "kaltura": 0,
+                "mtv": 0,
+                "ndn": 0,
+                "tmz": 0,
+                "vevo": 0,
+                "vimeo": 0,
+                "video": 0,
+                "yahoo": 0,
+                "youtube": 0
+            },
+            "music": {
+                "soundcloud": 0,
+                "spotify": 0
+            },
+            "quiz": {
+                "playbuzz": 0,
+                "quizatious": 0
+            },
+            "shop": {
+                "commerce": 0
+            },
+            "social": {
+                "facebook": 0,
+                "instagram": 0,
+                "pinterest": 0,
+                "tiktok": 0,
+                "twitter": 0,
+                "vine": 0
+            },
+            "poll": {
+                "text": 1
+            }
+        },
+        "id": "c3727f04-37bd-40d0-9661-8063cf71b084",
+        "universalId": "delish.recipe.29007809",
+        "images": {
+            "social": {
+                "width": 1900,
+                "height": 1267,
+                "thumb_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-190919-oozy-screamsicle-milkshakes-0222-landscape-pf-1571783533.jpg?crop=0.580xw:0.870xh;0.0529xw,0.0529xh&resize=100:*",
+                "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-190919-oozy-screamsicle-milkshakes-0222-landscape-pf-1571783533.jpg"
+            }
+        },
+        "modifiedDate": {
+            "year": "2019",
+            "month": "10",
+            "day": "23",
+            "hour": "19",
+            "minute": "53"
+        },
+        "selectedMedia": {
+            "4e5743f7-d592-43b0-ad46-2f63916f2d94": {
+                "contentMediaId": "4e5743f7-d592-43b0-ad46-2f63916f2d94",
+                "selectedCrop": "original",
+                "role": 4,
+                "order": 0,
+                "text": "",
+                "destUrl": ""
+            }
+        },
+        "publishDate": {
+            "year": "2019",
+            "month": "09",
+            "day": "17",
+            "hour": "21",
+            "minute": "26"
+        },
+        "slug": "boozy-screamsicle-shakes-recipe",
+        "sourceName": "Hearst Editorial",
+        "section": {
+            "name": "Holidays",
+            "prefix": "holiday-recipes"
+        },
+        "subsection": {
+            "name": "Scary-Good Halloween",
+            "prefix": "halloween"
+        },
+        "sponsor": [],
+        "syndicationRights": "0",
+        "tags": [],
+        "themes": [],
+        "title": "Boozy Screamsicle Shakes"
+    },
+    "template": "Recipe",
+    "ogUrl": "https://www.delish.com/holiday-recipes/halloween/a29007809/boozy-screamsicle-shakes-recipe/"
+}
