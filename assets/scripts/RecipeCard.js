@@ -161,11 +161,6 @@ class RecipeCard extends HTMLElement {
 
     card.appendChild(ratingDiv);
 
-
-
-
-
-
     //getTime
     let time = document.createElement("time");
     let tempTime = convertTime(searchForKey(data, "totalTime"));
@@ -177,9 +172,7 @@ class RecipeCard extends HTMLElement {
     ingredientsP.className = "ingredients";
     ingredientsP.innerHTML = createIngredientList(searchForKey(data, "recipeIngredient"));
     card.appendChild(ingredientsP);
-
-
-
+    
 
     this.shadowRoot.appendChild(styleElem);
     this.shadowRoot.appendChild(card);
@@ -326,6 +319,3 @@ function createIngredientList(ingredientArr) {
 // Define the Class so you can use it as a custom element.
 // This is critical, leave this here and don't touch it
 customElements.define('recipe-card', RecipeCard);
-
-
-

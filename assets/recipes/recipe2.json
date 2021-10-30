@@ -1,0 +1,138 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "datePublished": "2017-07-27T00:14:06",
+    "description": "There are a few secrets to the best classic, chewy chocolate chip cookies. Number one: Don’t use chips; instead, opt for a mix of milk or semisweet and dark chocolate chunks. The second is to let the dough rest overnight or longer for a more complex, toffee-like flavor. Lastly, use an ice cream scooper to get even-sized cookies every time. And that’s it! With these little tweaks, the result is a cookie that’s textured on the outside, and soft and gooey on the inside. Absolutely perfect!",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/62298.jpg",
+    "name": "The Best Chewy Chocolate Chip Cookies Recipe by Tasty",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Tasty",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://tasty.co/favicon.ico"
+        }
+    },
+    "isPartOf": {
+        "@type": "WebPage",
+        "url": "https://tasty.co/recipe/the-best-chewy-chocolate-chip-cookies",
+        "name": "The Best Chewy Chocolate Chip Cookies Recipe by Tasty",
+        "description": "There are a few secrets to the best classic, chewy chocolate chip cookies. Number one: Don’t use chips; instead, opt for a mix of milk or semisweet and dark chocolate chunks. The second is to let the dough rest overnight or longer for a more complex, toffee-like flavor. Lastly, use an ice cream scooper to get even-sized cookies every time. And that’s it! With these little tweaks, the result is a cookie that’s textured on the outside, and soft and gooey on the inside. Absolutely perfect!",
+        "isPartOf": {
+            "@type": "WebSite",
+            "url": "https://tasty.co",
+            "name": "Tasty",
+            "description": "The official home of all things Tasty, the world’s largest food network. Search, watch, and cook every single Tasty recipe and video ever - all in one place!",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://tasty.co/search?q={search_term}"
+                },
+                "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": "http://schema.org/True",
+                    "valueName": "search_term"
+                }
+            }
+        }
+    },
+    "keywords": "bakery style cookies, best chocolate chip cookie, best chocolate chip cookie recipe, cafe cookie, chewy chocolate chip cookie, chocolate chip cookies, gooey chocolate chip cookies, how to make chocolate chip cookies, recipe for chocolate chip cookie, soft chocolate chip cookies, tasty, tasty_vegetarian, ultimate chocolate chip cookie",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Alvin Zhou"
+        }
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "273 calories",
+        "carbohydrateContent": "34 grams",
+        "fatContent": "14 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "3 grams",
+        "sugarContent": "23 grams"
+    },
+    "recipeIngredient": [
+        "½ cup granulated sugar",
+        "¾ cup brown sugar, packed",
+        "1 teaspoon salt",
+        "½ cup unsalted butter, melted",
+        "1 egg",
+        "1 teaspoon vanilla extract",
+        "1 ¼ cups all-purpose flour",
+        "½ teaspoon baking soda",
+        "4 oz milk or semi-sweet chocolate chunks",
+        "4 oz dark chocolate chunk, or your preference"
+    ],
+    "recipeYield": "12 cookies",
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, whisk together the sugars, salt, and butter until a paste forms with no lumps."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk in the egg and vanilla, beating until light ribbons fall off the whisk and remain for a short while before falling back into the mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sift in the flour and baking soda, then fold the mixture with a spatula (Be careful not to overmix, which would cause the gluten in the flour to toughen resulting in cakier cookies)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fold in the chocolate chunks, then chill the dough for at least 30 minutes. For a more intense toffee-like flavor and deeper color, chill the dough overnight. The longer the dough rests, the more complex its flavor will be."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Scoop the dough with an ice-cream scoop onto a parchment paper-lined baking sheet, leaving at least 4 inches (10 cm) of space between cookies and 2 inches (5 cm)  of space from the edges of the pan so that the cookies can spread evenly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 12-15 minutes, or until the edges have started to barely brown."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cool completely before serving."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Enjoy!"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "94",
+        "ratingCount": "35606",
+        "bestRating": "100",
+        "worstRating": "0"
+    },
+    "cookingMethod": "Bake",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "tool": "Sieve",
+    "cookTime": "PT15M",
+    "prepTime": "PT20M",
+    "totalTime": "PT1H5M",
+    "video": {
+        "@type": "VideoObject",
+        "contentUrl": "https://vid.tasty.co/output/33851/mp4_640x640/1497287402",
+        "duration": "PT1M24S",
+        "description": "There are a few secrets to the best classic, chewy chocolate chip cookies. Number one: Don’t use chips; instead, opt for a mix of milk or semisweet and dark chocolate chunks. The second is to let the dough rest overnight or longer for a more complex, toffee-like flavor. Lastly, use an ice cream scooper to get even-sized cookies every time. And that’s it! With these little tweaks, the result is a cookie that’s textured on the outside, and soft and gooey on the inside. Absolutely perfect!",
+        "name": "The Best Chewy Chocolate Chip Cookies Recipe by Tasty",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Tasty",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://tasty.co/favicon.ico"
+            }
+        },
+        "thumbnailUrl": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/62298.jpg",
+        "uploadDate": "2017-07-27T00:14:06"
+    }
+}
