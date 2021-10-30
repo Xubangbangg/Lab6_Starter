@@ -1,0 +1,1834 @@
+
+        [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://www.marthastewart.com/",
+              "name": "Home",
+              "image": null
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "https://www.marthastewart.com/1509043/food-cooking",
+              "name": "Food & Cooking",
+              "image": null
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@id": "https://www.marthastewart.com/1505788/recipes",
+              "name": "Recipes",
+              "image": null
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@id": "https://www.marthastewart.com/1502284/dessert-recipes",
+              "name": "Dessert & Treats Recipes",
+              "image": null
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@id": "https://www.marthastewart.com/1502264/cookie-recipes",
+              "name": "Cookie Recipes",
+              "image": null
+            }
+          }
+        ]
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Recipe",
+        "mainEntityOfPage": "https://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies",
+        "name": "Soft and Chewy Chocolate Chip Cookies",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fstyles%2Fwmax-750%2Fd49%2Fsoft-chewy-chocolate-chip-cookies-01-7004023-0819%2Fsoft-chewy-chocolate-chip-cookies-01-7004023-0819_horiz_0.jpg%3Fitok%3Dc7ET_-6z",
+          "width": 750,
+          "height": 422
+        },
+        "datePublished": "2011-04-20T21:42:16.000Z",
+        "description": "Chocolate chip cookies are a go-to favorite dessert, sweet snack, or after-school treat. This cookie—which is made in the soft and chewy style—gives you both the nostalgia of childhood bake sales and the satisfying, grown-up flavors of dark chocolate. After just three steps and a quick bake in the oven, the only thing you'll need is a glass of cold milk or frothy coffee. ",
+        "prepTime": "PT20M",
+        "cookTime": null,
+        "totalTime": "PT1H10M",
+        "recipeYield": "Makes about 3 dozen",
+        "recipeIngredient": [
+          "2 1/4 cups all-purpose flour",
+          "1/2 teaspoon baking soda",
+          "2 sticks (1 cup) unsalted butter, room temperature",
+          "1/2 cup granulated sugar",
+          "1 cup packed light brown sugar",
+          "1 teaspoon kosher salt",
+          "2 teaspoons pure vanilla extract",
+          "2 large eggs",
+          "12 ounces semisweet chocolate chips (2 cups)"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350°F with racks in the upper and lower third positions.&nbsp;In a small bowl, whisk together flour and baking soda; set aside. In the bowl of a stand mixer fitted with the paddle attachment, beat butter and both sugars on medium speed until light and fluffy, about 3 minutes. Add salt, vanilla, and eggs; mix to combine. Reduce speed to low and gradually add flour mixture, mixing until just combined. Mix in chocolate chips."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Using a tablespoon measure, drop heaping portions of dough about 2 inches apart on baking sheets lined with parchment paper."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake until cookies are golden around the edges, but still soft in the center, 8 to 10 minutes. Remove from oven, and let cool on baking sheet 1 to 2 minutes. Transfer cookies to a wire rack and let cool completely. Store cookies in an airtight container at room temperature up to 1 week."
+          }
+        ],
+        "recipeCategory": [
+          "Cookie Recipes"
+        ],
+        "recipeCuisine": [],
+        "author": {
+          "@type": "Organization",
+          "name": "Martha Stewart"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3.75104925999558,
+          "ratingCount": 9054,
+          "itemReviewed": "Soft and Chewy Chocolate Chip Cookies",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "nutrition": null,
+        "review": [
+          {
+            "@type": "Review",
+            "datePublished": "2020-11-29T19:27:37+00:00",
+            "reviewBody": "I’ve been using this recipe for years! I think you used to call it ‘Alexis’ famous chocolate chip cookies??? Love soft and chewy with the crunchy edges!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-08-28T05:24:20+00:00",
+            "reviewBody": "Been using this recipe for years!! Thanks Martha Stewart!!!😍😍😍",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-07-20T21:33:52+00:00",
+            "reviewBody": "Yum! I didn’t have any baking soda 🤦🏻‍♀️ So I subbed 2 tsp of baking powder and baked at 350°F for 15-18 minutes. Then I promptly poured myself a glass of milk and tried not to eat a dozen. 😊",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-05-25T18:18:15+00:00",
+            "reviewBody": "martha stewert is the best",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-05-25T18:17:36+00:00",
+            "reviewBody": "i loved it",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-05-21T21:58:52+00:00",
+            "reviewBody": "Martha Stewart usually never fails me so I didn’t check reviews closely enough. This cookie recipe is not one I would do again. Something is definitely off.   I followed recipe as written, however dough was very sticky, cookies need much longer to cook and taste more cakey than a cookie.\nMad I didn’t stick with my usual recipe.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "1.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-05-21T04:20:54+00:00",
+            "reviewBody": "It was great! I loved how chewy the cookies were! My parents and siblings loved them! :) Thank you Martha!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-05-16T06:11:23+00:00",
+            "reviewBody": "I live in Northern Ontario Canada. Made this recipe with just over a cup of chocolate chips as I found 2 cups to be to much. They came out great! Perfect crunch on the outside, soft and chewy middle, on the perfect side of golden colour. Fantastic! Definitely had to leave them one minute extra in the oven.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-04-27T16:08:47+00:00",
+            "reviewBody": "I found this recipe while living in the east coast and loved the texture and taste. I moved to the Caribbean, and tried it, but they came out looking like a biscuit and the texture was more like cake. Can someone help me modify this recipe to be done in the Caribbean?",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-04-26T17:18:06+00:00",
+            "reviewBody": "Excellent!  The perfect balance between chewy and soft texture!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-04-22T19:31:04+00:00",
+            "reviewBody": "My 3 year old daughter and I made these together today. We followed the recipe and they turned out perfect! If we can do it, anyone can! Thanks Martha!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-04-20T21:35:18+00:00",
+            "reviewBody": "How would you adjust the soft and chewy version for Santa Fe, NM at 7000 ft....thank you in advance for your attention to the above matter",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "1.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-04-20T21:35:16+00:00",
+            "reviewBody": "How would you adjust the soft and chewy version for Santa Fe, NM at 7000 ft....thank you in advance for your attention to the above matter",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "1.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-04-17T01:33:44+00:00",
+            "reviewBody": "I have been using this receipt for years without ever failing! If it’s not working out for you, look in the mirror before complaining! Thank you for these amazing cookies Martha :-)",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-04-13T19:07:02+00:00",
+            "reviewBody": "I loved this hoee! my brother kinda [filtered] up the recipe but it tasted so good i can't even explain so yea make this [filtered]. also make it into slutty brownies cause love that k bye",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-04-13T19:07:01+00:00",
+            "reviewBody": "I loved this hoee! my brother kinda [filtered] up the recipe but it tasted so good i can't even explain so yea make this [filtered]. also make it into slutty brownies cause love that k bye",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-04-13T19:06:59+00:00",
+            "reviewBody": "I loved this hoee! my brother kinda [filtered] up the recipe but it tasted so good i can't even explain so yea make this [filtered]. also make it into slutty brownies cause love that k bye",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-02-13T11:05:58+00:00",
+            "reviewBody": "Wonderful recipe. I made it for my friends and ALL of them loved it. Still using the recipe until now :)",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-01-24T02:52:12+00:00",
+            "reviewBody": "I've been through so many chocolate chip cookie recipes trying to find this recipe and FINALLY!!! Thank you Martha!!! Idk what everyone else did wrong... I Don't have a mixer so I had to whisk it really good... Worth the sweat... I also cut down on the salt and baking soda by 1/2 tsp... The consistency scared me a bit but I did NOT want a cakey cookie... My 7 month pregnant self is very pleased!!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2020-01-01T06:56:57+00:00",
+            "reviewBody": "Runny and weird consistency. Took forever to cook and i followed recipe exactly. Even the dough tasted odd (and I've tasted a lot of chocolate chip cookie dough in my day!). Would NOT try these again.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "2.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-12-19T01:10:22+00:00",
+            "reviewBody": "Our cookies turned out great. We did err on the side of more flour and a little more baking soda hoping that would keep them from being too flat. We also chilled the dough in the refrigerator for about 30 min as well.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-12-11T03:10:19+00:00",
+            "reviewBody": "Great recipe only difference was I left it in for 14 minutes",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": "5.0"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-10-21T18:31:23+00:00",
+            "reviewBody": "Cookies turned out to be a big blob of liquid oil, didn't cook until the 40-minute mark. WAY too much choco chips, 1 cup would have been enough, that's a lot coming from me. Trying again in a thicker pan, working better so far.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 1
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-09-22T05:16:49+00:00",
+            "reviewBody": "It needs a cup of nuts or extra 1/2 of flour. If you simply follow this recipe as is you'll end up with a flat oily mess.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 2
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-04-17T15:44:27+00:00",
+            "reviewBody": "Amazing cookies. Make them all the time. I use light brown sugar and bacel margarine squares (instead of butter) and they turn out soft and chewy every time.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-04-07T22:09:13+00:00",
+            "reviewBody": "Great recipe! Cookies were perfect and everyone at the party raved about them. Definitely will make these again. Yummy!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-03-31T20:24:11+00:00",
+            "reviewBody": "I followed the recipe exactly.  The cookies spread too much and were flat.  I would suggest one or all of the following:  Chill the dough, change the oven temp to 325, and let the cookies cool on baking sheet 4 minutes.  I will not make this recipe again.  I usually read the reviews before I try a new recipe.  Shame on me for not doing that this time!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 1
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-03-28T20:23:14+00:00",
+            "reviewBody": "perfect :)",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-03-09T22:17:17+00:00",
+            "reviewBody": "I watched the video, did everything just as described, I always weight my ingredients.  In other words, I am a very good baker, lots of experience, \"seasoned\".  The cookies were soft and chewy yes, but they were THIN, what a bummer.  I would suggest another 1/4 cup of flour (1.6 oz.)",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 2
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-02-19T17:16:55+00:00",
+            "reviewBody": "fiance loves these cookies!! soft and chewy even good the next few days after",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-02-19T00:46:24+00:00",
+            "reviewBody": "My go-to recipe! Awesome!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-01-22T02:39:47+00:00",
+            "reviewBody": "I followed the recipe precisely and they came out perfect. My family loves them!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2019-01-14T20:34:05+00:00",
+            "reviewBody": "My husband has always wanted peanut butter but since I made these he want chocolate chip cookies all the time made with this recipe. They are the best we have ever eaten.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-12-26T23:48:17+00:00",
+            "reviewBody": "Been making these for years, my aunt recommended this to me and I've loved it since then. Always got positive comments from my husband with these cookies. I made him a new batch of chocolate chip cookies with a new recipe and he complained and asked for my old recipe back. So I'm probably going to stick to this for the rest of my life. This is just the best. :)",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-12-21T02:15:06+00:00",
+            "reviewBody": "These are the best cookies I’ve made.   The are chocolaty and soft!  This is my go to recipe!  Thank you Martha!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-12-16T15:40:18+00:00",
+            "reviewBody": "This is my go-to cookie recipe. It is easy, consistently good and reminds me of making cookies with my aunt. It is a very forgiving recipe. It even allows for variations and my own imagination with ingredients.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-12-04T02:42:46+00:00",
+            "reviewBody": "How in the world do these cookies only have 3 stars??? Y'all must be doing something wrong because every time i make them, they are gone. I made them for my husbands dealerships last year and one guy dropped it on the shop floor and said its to good to waist it. these are hands down the best cookies i have ever made.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-11-27T05:10:26+00:00",
+            "reviewBody": "This is my go to recipe! I think they taste the best with the semi-sweet chips. I also use salted butter and do not add additional salt. Overall best recipe you'll find; you won't be disappointed. A true soft and chewy cookie so believe me they go fast! I have halved the recipe before but then regretted it for that reason.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 4
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-11-18T01:33:59+00:00",
+            "reviewBody": "I’ve been making this recipe for about 6 months. I never really rate recipes because I think of it as a waste of time. But this recipe is just so good! My family is obsessed with chocolate chip cookies 🍪 and I’ve been experimenting with millions of recipes. I’ve always thought it’s boring to stick to one recipe, but this is my permanent recipe. I sometimes cut out the sugar, strangely, it tastes amazing that way! I usually skip the part about leaving it in a container for a week (my family eats it up right Away! 😄) my family likes more cookie-dough type cookies (gooey) so we totally skip that step. And they’re just so good you eat them right away! I never buy in-salted butter so I just use salted butter and cut down on the salt (turns out great still!) all in all, this recipe is absolutely the best I’ve ever come across in years of making cookies. Ive never loved a cookie better! :-)",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-11-09T05:52:08+00:00",
+            "reviewBody": "Thank you for this recipe! I love it. I cut down a little on the sugar, both white and brown, though. But the cookies still turned out great!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-10-10T17:56:24+00:00",
+            "reviewBody": "Followed exactly and the cookies are amazing!   I have tried other recipes but this one is the best.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-09-09T05:48:45+00:00",
+            "reviewBody": "This recipe turned out exactly how I hoped. The outside was a little crispy and the inside was soft and chewy! My butter was a little too soft, so I put the dough into the fridge for about 30 minutes before adding the chocolate chips. Other than that, I followed the recipe exactly. They don't spread out too much on the pan, so you can actually put them a little closer together than regular cookies. They taste great too!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-08-29T00:20:59+00:00",
+            "reviewBody": "I found that I need to increase the flour by about 1/4 cup. The men and children love these!!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-08-25T23:31:19+00:00",
+            "reviewBody": "For some reason the stars aren't working. But I absolutely LOVE this recipe!!! It was perfect and the dough turned out the perfect consistancy. And they taste amazing!!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 2
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-08-19T18:44:33+00:00",
+            "reviewBody": "Came out more like a batter- cookies didn’t hold shape and spread out in the oven.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 2
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-08-06T20:15:19+00:00",
+            "reviewBody": "the batter is amazing and the cookies were wonderful!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-08-04T05:26:07+00:00",
+            "reviewBody": "This is amazing and so yummy! Love love love it 😍😍😍",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-07-18T09:54:32+00:00",
+            "reviewBody": "I dont know what went wrong but my cookies b\"dough\"  was not at all a cookie dough, it was more like cake batter. This recipe is horrible and i suggest you dont make it because i wasted a lot of ingredients. Im very dissapointed. Bad recipe, the cookies expan too much probabky because of the surplus ammount of baking soda..i thought to follow this recipe thoighc",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 1
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-06-04T19:15:36+00:00",
+            "reviewBody": "I don't know what went wrong, but my cookies turned out like cake balls. Instead of being too runny like most people had said (which was what I would've prefered) mine puffed out and up, and the texture was disgusting. I followed this recipe to the T and even\nwatched the video. I'm sure this recipe is great, but it did not work for me.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 2
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-06-03T03:38:55+00:00",
+            "reviewBody": "I’ve been making these cookies for a few years now and they always turn out amazing. I love them, my family loves them. I’ve even shared Martha’s recipe with friends because it’s so good. This recipe is always my go to for a sweet, baked treat in the house.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-05-19T03:37:58+00:00",
+            "reviewBody": "It wasn't quite what we were expecting. After a healthful dinner of kale and quinoa, my sister and I decided to indulge in the decadence of chocolate chip cookies, trusting only Martha herself to direct our baking. We used the correct measurements but melted the butter for a bit too long. We thought, \"This is no problem, our fearless, wise teacher will not fail us.\"  We were gravely mistaken. Our dough has the consistency of batter and stuck to our fingers like some ungodly things I don't want to mention on such a pristine website. Our cookies took hours to bake (figuratively of course) as we waited in anticipation to see what masterpiece we had created. Upon opening the oven, we discovered that our cookies had merged into a colossal flat cookie! We broke it into chunks and mixed it with ice cream and voil la! We realized that Martha had not led us astray, but took us on another journey we had not expected. All hail Martha.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 2
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-05-07T14:44:34+00:00",
+            "reviewBody": "Best.Chocolate Chip Cookies.EVER! I just about have the recipe memorized. Always a hit with my family and my girls love to help make them. Perfectly chewy, just how we like them. I've made them with GF, 1:1 flour as well and they still turn out beautifully.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-05-06T23:17:49+00:00",
+            "reviewBody": "The edges are perfectly crunchy and they mix with the soft middle nicely. My mother loved it! Needs 12-14 minutes.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-05-02T22:46:54+00:00",
+            "reviewBody": "Love it",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-04-26T20:41:15+00:00",
+            "reviewBody": "Best chocolate chip cookie I've ever made! Needed to bake for at least 10 minutes.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-04-05T21:33:06+00:00",
+            "reviewBody": "These cookies were delicious!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-04-05T20:11:37+00:00",
+            "reviewBody": "These are fantastic cookies! I make them at least once a month and every time they taste even better. These cookies are my go-to snack + very easy to make. Thanks Martha Stewart!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-04-03T00:21:31+00:00",
+            "reviewBody": "Absolutely foolproof. I don't see why people have problems with this recipe, I can only assume they're making a mistake somewhere along the way. I make this recipe all the time and get requests for the recipe every time someone new tries them.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-03-31T17:34:33+00:00",
+            "reviewBody": "I feel the need to defend this recipe.  I have been making this exact recipe for about 12 years and every single time I have made it it has been great.  I go exactly by the recipe and don't change anything and it is wonderful.  The only time I have switched anything up is when I have been out of butter and I have used earth balance in it's place and it has worked out perfectly.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-03-31T04:15:40+00:00",
+            "reviewBody": "Everyone love them!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-03-24T06:30:17+00:00",
+            "reviewBody": "They were in the oven and before I knew it they were finished, and my parents and grandfather loved them, thank you so much for making the cookies.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-03-11T15:24:45+00:00",
+            "reviewBody": "By far the best soft chocolate chips cookies I have ever made or tasted! I’m adding some PB chips and m&amp;ms, roll the dough and freez some of it for later",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-02-25T20:18:38+00:00",
+            "reviewBody": "Martha I want to be in your show call me",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-02-18T05:00:12+00:00",
+            "reviewBody": "I followed the instruction and my cookies turned out so flat thin. I used to refrigerate the dough before baking and they turned out pretty good but this time, I baked it right away.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 3
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-02-07T16:33:14+00:00",
+            "reviewBody": "These cookies are my go-to chocolate chip cookies. Definitely the right balance between chewy and crispy. I don't know why there are negative comments on this recipe. I do know that you have to be careful that you're using 2 STICKS, not 2 cups of butter. (2 sticks= 1cup). Also, some people don't know what creaming butter means. It does take a good 4-5 minutes of beating to get it creamed properly- this lends the cookie the spread and the chewiness it needs.\nI wonder if the person with a cakey texture to the cookie used baking powder instead of baking soda. Baking powder makes things puff up- baking soda makes them spread. Make sure you're using the right thing!\nI almost always have great results with Martha recipes, and I follow the recipes to a T.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-02-05T00:05:19+00:00",
+            "reviewBody": "These cookies are not worth the calories. thanks Martha Stewart for creating the worst cookie recipe.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 1
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-02-04T19:52:45+00:00",
+            "reviewBody": "I made the recipe as written. Nice batter but the cookie was soft with crisp edges but not chewy which is what I wanted. My batter had a slight cakey texture. The taste was ok. but not what I was looking for. I have never had good results with any Martha Stewart recipe I have tried, something is always off.If you are looking for just a nice tasting cookie this recipe will work. If you are looking for a chewy, good tasting chocolate chip cookie this is not for you.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 3
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-02-03T20:34:32+00:00",
+            "reviewBody": "I would give this the full 5 stars except that I had to make adjustments.  When made as directed, the cookies run together and come out all flat.  I fixed it by adding enough extra flour to bring it to 2-1/2 cups total.  I also have to cook it longer (more like 12-14 minutes).  Finished cookies are amazing with those changes though!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 4
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-01-15T23:10:19+00:00",
+            "reviewBody": "This is soooooo gooooooooood! They are so chewy and chocolatey and yummmmmmmmmmmmy! 🤤 It made a ton of dough so I froze it, and it made 4 batches! I love this so much I want to marry these cookies. 🍪❤️",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2018-01-05T20:05:12+00:00",
+            "reviewBody": "amazing recipe",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-12-25T04:22:23+00:00",
+            "reviewBody": "I have been looking for a recipe like this...my cookies lately have been coming out very flat and I wanted a cookie that is crispy on the outside and chewy on the inside....this is the recipe...I added different chocolate chips...I used 1 cup of semi dark, 1/4 cup of dark chocolate chips , 3/4 white chips and 1/2 cup of cookies and cream chips...it was awesome...my husband loves them..I will testing these cookies on some friends. Thanks!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-12-23T19:34:32+00:00",
+            "reviewBody": "My cookies came out so light and fluffy, and of course delicious, though I can't seem to find out why I can't make them flatter, round and chewy...I have altered the ingredients, temperature even amount of mixing of dough, though cookies still come out fluffy instead of round and chewy.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 4
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-12-23T05:08:16+00:00",
+            "reviewBody": "if you don't want cookies that spread so thin, replace the 2 + 1/4 cup flour with 2 + 3/4 flour instead - it's probably too little flour in this recipe that's causing it to spread.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 3
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-12-22T06:50:16+00:00",
+            "reviewBody": "My cookies came out very flat. They spread so thin that they had holes. I'm not sure what I messed up on. Did I over mix? Should I have chilled the dough first? Was expecting a fool proof recipe and came out with a disaster worse than the last recipe I was using. :(",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 2
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-12-18T01:49:16+00:00",
+            "reviewBody": "THIS IS THE BEST RECIPE EVER!! THE ONLY CHANGE I MADE WAS INSTEAD OF 2 LARGE EGGS, I USED 3 MEDIUM EGGS BECAUSE THATS ALL I HAD. I FOLLWED EVERYTHING ELSE AS FAR AS INGREDIENTS ALL THE SAME. MY BAKING TIME WAS 350°F FOR 10MIN THEN IF IT STILL WASN'T AS DONE AS I LIKED,  I BAKED THEM FOR 2 MINUTES MORE.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-11-28T06:56:07+00:00",
+            "reviewBody": "I had to cook a couple minutes longer and using an aluminum pan makes all the difference but still i love this recipie. So simple and very good.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 4
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-11-04T06:39:44+00:00",
+            "reviewBody": "I have not the slightest idea as to what I did wrong. I followed the recipe ingredients and directions to a T, I baked my cookies at/preheated the oven to 350 like the directions stated to do and baked them for 9-10 minutes until golden brown started, but they ended up being waayy TOO SOFT like they were still doughy. They would squish up and fall apart before even taking them off of the baking sheet... ?!?  Is there something wrong with my oven? What should I said it to instead if anything?? please help me.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 3
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-10-31T23:24:55+00:00",
+            "reviewBody": "YUM! I used King Arthur Flour and Harris Teeter brand chocolate chips. They turned out SO good. Slightly crispy on the outside and super soft and chewy on the inside! I maked mine for about 14 minutes. Thank you!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-10-12T21:59:33+00:00",
+            "reviewBody": "I learnt how to properly make cookies withs this recipe and it never fails! The only thing I have to say is that DO NOT FOLLOW THE COOKING TIMING because the weather and latitude have a huge influence in the final product: I live in Cancun City. We are on a wet and hot enviroment on the sea level. I put 2 dozens on the oven and they take like 20 minutes to be done.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-10-09T08:55:52+00:00",
+            "reviewBody": "I think I have bit of different cup than US .. Anybody point me please in grams? Just about these ingredients.. Sugar, Flour and Butter?\n\nI have found google but simply I could not rely on.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-10-07T14:19:46+00:00",
+            "reviewBody": "I’ve made these a few times now and every time the are delicious and full of chocolate :) However they never really crispen up on the bottom and it’s kinda like eating raw mixture and always fall apart to pieces :/ Any tips???",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 4
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-10-06T21:13:57+00:00",
+            "reviewBody": "I was skeptical trying this recipe due to some of the poor reviews, and being my first time making cookies. However, I followed the recipe exactly, and they cookies were the best I’ve ever had. Phenominal.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-09-16T03:52:12+00:00",
+            "reviewBody": "I guess this is a Martha recipe since it's on her website.  But I really just followed Thomas Joseph in the video.  Really easy to make and nice that he explained how adjusting the ingredients' proportions one can adjust the texture of the cookies to suits one's taste. Thx for this easy to follow recipe.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-08-29T01:13:04+00:00",
+            "reviewBody": "My go-to, perfect chocolate chip cookie!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-07-22T00:20:26+00:00",
+            "reviewBody": "THIS USES F NOT C. I BASICALLY BURNED MY HOUSE DOWN. THANK U, MARTHA",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 1
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-07-14T14:16:55+00:00",
+            "reviewBody": "My sweet loves this recipe I add walnuts and he eats every crumb of the batch leftover in my cookie container. :) ....... looking forward to using other cookie recipes.  I do have a ?? do you have a good gluten-free cookie recipe. I love sugar cookies especially?",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-07-13T06:47:32+00:00",
+            "reviewBody": "First of all Martha ya munted for thinking these cookies would be an actual success, mine came out of the oven looking a mother f**king doner kebab. They were flatter than a pre-pubescent boys chest, and so buttery I have been barking like a mother f**ckung bear who woke up too early from hibernation. My esophagus is so clogged it feels like I've been smoking a pack of twenty every bloody hour. I'm not usually this salty, but I feel as if the butter has seeped into my actual arteries. I'm either stupid as [filtered] or ya recipe is completely twatted. Qqqqq x",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 1
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-06-30T13:46:37+00:00",
+            "reviewBody": "The the best cookie I have ever made. In fact, maybe the best I've ever tried. I made an account just to type this comment to let everyone know how easy and absolutely delicious these cookies are! I am vegan and used semi-sweet chocolate chips, replaced each egg with about 1/3 cup of applesauce, used vegan butter spread for the butter, and for fun added a little dash of almond extract and they were delicious! Made them a few days ago and going back to make me right now!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-06-24T23:04:57+00:00",
+            "reviewBody": "Great recipe. I don't have a electric mixer so I just mixed by hand. I mixed the butter and both the sugars until the mixture was soft (it still had bits of solid sugar in it though), I then added the vanilla (mine was powdered vanilla), salt and three eggs (my eggs were small). I mixed it until it was soft (this time i could see less bits of sugar). \n\nI added the flour-baking soda mixture in by small portions and mixed until it was well combined. Unlike the recipe, I didn't preheat my oven. I left it on for about 5 mins before putting in the first batch of cookies. I left them cook for 14 mins in total before taking them out and letting them cool completely on the baking tray. \n\nI expected the second batch to take less time in the oven but it actually took more (since they were bigger than the first batch), they were in the oven for around 17-19 mins then I took them out and left them cool. I made 28 cookies in total (you'd probably make more if you used an icecream scoop to have them the same size).\n\nThey're fantastic, a bit too sweet for my taste but great nonetheless. The edge was crispy and the middle was soft and chewy!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-06-10T18:21:55+00:00",
+            "reviewBody": "Awesome recipe",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-06-10T04:23:29+00:00",
+            "reviewBody": "Overall, these cookies turn out great!  The only thing was that it didn't even come close to making 3 dozen.  The cookies tasted great, but if you are trying to make enough cookies for 3 dozen people, I would double the recipe.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-05-30T02:22:47+00:00",
+            "reviewBody": "I tried this recipe, it turned out amazing, I didn't have a mixer handy so a whisk and butter microwave for 45 seconds worked great. I would definitely try again",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-04-09T12:22:11+00:00",
+            "reviewBody": "Hi... My name is ella. I've been baking cookies for a long time, but I never seem to get the temperature on the oven right (considering it has no gage). So if I try to bake for 8 to 10 minutes, they either burn or don't get baked enough. What should I do?",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-04-01T02:46:48+00:00",
+            "reviewBody": "They were delicious. I only had a cup each of milk chocolate semi sweet chips and white chocolate. I mixed them and added a few walnuts. Yummy!!!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-03-14T17:03:09+00:00",
+            "reviewBody": "It comes out as it is written here. They turned out great!!! Just make sure you follow directions and while the mixer is spinning in slow speed, place the flour slowly with the s[filtered]. That is one idea. Or stop the mixer and do half and half while you make it stir. That is all. Someone here was asking if they can be made vegan while chewy...i will try to figure it out and see what i can come up with. I would say, just play with ingredients. Most of chocolate chip cookies nowadays are new creations in the hands of the baker.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5",
+              "ratingValue": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-02-20T05:16:26+00:00",
+            "reviewBody": "Any suggestions on how to make this cookie vegan whilst being chewy",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-02-15T15:22:16+00:00",
+            "reviewBody": "Hi, i'm from Brasil and want to know if the oven temperature is in celsius or fahrenheit degrees.\nThank you.",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2017-02-07T14:35:54+00:00",
+            "reviewBody": "Misha is god jesus",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2016-05-30T15:31:29+00:00",
+            "reviewBody": "Hello, is that a 1/2 oz or a 1 oz  ice cream scoop that you are using for cookies?",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2016-05-30T15:29:19+00:00",
+            "reviewBody": "Hello, is that a 1/2 oz or a 1 oz  ice cream scoop that you are using for cookies?",
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": "1",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous",
+              "image": null,
+              "sameAs": null
+            }
+          }
+        ],
+        "video": {
+          "@context": "http://schema.org",
+          "@type": "VideoObject",
+          "name": "The Science Behind Perfect Chocolate Chip Cookies",
+          "description": "Soft and chewy, thin and crisp, or cakey? How do you like your chocolate chip cookies? Here's the answer to creating your perfect chocolate chip cookie.",
+          "uploadDate": "2014-08-15T14:57:45.000Z",
+          "duration": "PT4M13.214S",
+          "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F5985631785001%2Fba62f755-1eb8-4e66-9f5f-c6021f43f1fd%2F99e567df-ffc9-4828-b5b3-d625df16c932%2F160x90%2Fmatch%2Fimage.jpg",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Martha Stewart",
+            "url": "https://www.marthastewart.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.marthastewart.com/img/logo.png",
+              "width": 209,
+              "height": 60
+            },
+            "sameAs": [
+              "https://www.facebook.com/marthastewart/",
+              "https://twitter.com/marthaliving/",
+              "https://www.pinterest.com/marthastewart/",
+              "https://www.instagram.com/marthastewart/",
+              "https://www.youtube.com/user/marthastewart/"
+            ]
+          },
+          "embedUrl": "https://players.brightcove.net/5985631785001/default_default/index.html?videoId=5991218086001"
+        }
+      }
+    ]
+      
