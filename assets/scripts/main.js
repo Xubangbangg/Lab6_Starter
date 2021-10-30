@@ -114,11 +114,13 @@ function bindShowMore() {
         mainPart.appendChild(element);
       }
       flag = true;
+      btton.innerHTML = "show less";
     }
     else{
       mainPart.removeChild(mainPart.lastChild);
       mainPart.removeChild(mainPart.lastChild);
       mainPart.removeChild(mainPart.lastChild);
+      btton.innerHTML = "show more";
       flag = false;
     }
   })

@@ -1,138 +1,297 @@
 {
-    "@context": "http://schema.org",
-    "@type": "Recipe",
-    "datePublished": "2017-07-27T00:14:06",
-    "description": "There are a few secrets to the best classic, chewy chocolate chip cookies. Number one: Don’t use chips; instead, opt for a mix of milk or semisweet and dark chocolate chunks. The second is to let the dough rest overnight or longer for a more complex, toffee-like flavor. Lastly, use an ice cream scooper to get even-sized cookies every time. And that’s it! With these little tweaks, the result is a cookie that’s textured on the outside, and soft and gooey on the inside. Absolutely perfect!",
-    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/62298.jpg",
-    "name": "The Best Chewy Chocolate Chip Cookies Recipe by Tasty",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Tasty",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "https://tasty.co/favicon.ico"
-        }
-    },
-    "isPartOf": {
-        "@type": "WebPage",
-        "url": "https://tasty.co/recipe/the-best-chewy-chocolate-chip-cookies",
-        "name": "The Best Chewy Chocolate Chip Cookies Recipe by Tasty",
-        "description": "There are a few secrets to the best classic, chewy chocolate chip cookies. Number one: Don’t use chips; instead, opt for a mix of milk or semisweet and dark chocolate chunks. The second is to let the dough rest overnight or longer for a more complex, toffee-like flavor. Lastly, use an ice cream scooper to get even-sized cookies every time. And that’s it! With these little tweaks, the result is a cookie that’s textured on the outside, and soft and gooey on the inside. Absolutely perfect!",
-        "isPartOf": {
-            "@type": "WebSite",
-            "url": "https://tasty.co",
-            "name": "Tasty",
-            "description": "The official home of all things Tasty, the world’s largest food network. Search, watch, and cook every single Tasty recipe and video ever - all in one place!",
-            "potentialAction": {
-                "@type": "SearchAction",
-                "target": {
-                    "@type": "EntryPoint",
-                    "urlTemplate": "https://tasty.co/search?q={search_term}"
-                },
-                "query-input": {
-                    "@type": "PropertyValueSpecification",
-                    "valueRequired": "http://schema.org/True",
-                    "valueName": "search_term"
-                }
-            }
-        }
-    },
-    "keywords": "bakery style cookies, best chocolate chip cookie, best chocolate chip cookie recipe, cafe cookie, chewy chocolate chip cookie, chocolate chip cookies, gooey chocolate chip cookies, how to make chocolate chip cookies, recipe for chocolate chip cookie, soft chocolate chip cookies, tasty, tasty_vegetarian, ultimate chocolate chip cookie",
-    "author": [
+    "@context": "https://schema.org",
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Alvin Zhou"
-        }
-    ],
-    "nutrition": {
-        "@type": "NutritionInformation",
-        "calories": "273 calories",
-        "carbohydrateContent": "34 grams",
-        "fatContent": "14 grams",
-        "fiberContent": "1 gram",
-        "proteinContent": "3 grams",
-        "sugarContent": "23 grams"
-    },
-    "recipeIngredient": [
-        "½ cup granulated sugar",
-        "¾ cup brown sugar, packed",
-        "1 teaspoon salt",
-        "½ cup unsalted butter, melted",
-        "1 egg",
-        "1 teaspoon vanilla extract",
-        "1 ¼ cups all-purpose flour",
-        "½ teaspoon baking soda",
-        "4 oz milk or semi-sweet chocolate chunks",
-        "4 oz dark chocolate chunk, or your preference"
-    ],
-    "recipeYield": "12 cookies",
-    "recipeInstructions": [
-        {
-            "@type": "HowToStep",
-            "text": "In a large bowl, whisk together the sugars, salt, and butter until a paste forms with no lumps."
-        },
-        {
-            "@type": "HowToStep",
-            "text": "Whisk in the egg and vanilla, beating until light ribbons fall off the whisk and remain for a short while before falling back into the mixture."
-        },
-        {
-            "@type": "HowToStep",
-            "text": "Sift in the flour and baking soda, then fold the mixture with a spatula (Be careful not to overmix, which would cause the gluten in the flour to toughen resulting in cakier cookies)."
-        },
-        {
-            "@type": "HowToStep",
-            "text": "Fold in the chocolate chunks, then chill the dough for at least 30 minutes. For a more intense toffee-like flavor and deeper color, chill the dough overnight. The longer the dough rests, the more complex its flavor will be."
-        },
-        {
-            "@type": "HowToStep",
-            "text": "Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper."
-        },
-        {
-            "@type": "HowToStep",
-            "text": "Scoop the dough with an ice-cream scoop onto a parchment paper-lined baking sheet, leaving at least 4 inches (10 cm) of space between cookies and 2 inches (5 cm)  of space from the edges of the pan so that the cookies can spread evenly."
-        },
-        {
-            "@type": "HowToStep",
-            "text": "Bake for 12-15 minutes, or until the edges have started to barely brown."
-        },
-        {
-            "@type": "HowToStep",
-            "text": "Cool completely before serving."
-        },
-        {
-            "@type": "HowToStep",
-            "text": "Enjoy!"
-        }
-    ],
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "35606",
-        "bestRating": "100",
-        "worstRating": "0"
-    },
-    "cookingMethod": "Bake",
-    "recipeCategory": "Desserts",
-    "recipeCuisine": "American",
-    "tool": "Sieve",
-    "cookTime": "PT15M",
-    "prepTime": "PT20M",
-    "totalTime": "PT1H5M",
-    "video": {
-        "@type": "VideoObject",
-        "contentUrl": "https://vid.tasty.co/output/33851/mp4_640x640/1497287402",
-        "duration": "PT1M24S",
-        "description": "There are a few secrets to the best classic, chewy chocolate chip cookies. Number one: Don’t use chips; instead, opt for a mix of milk or semisweet and dark chocolate chunks. The second is to let the dough rest overnight or longer for a more complex, toffee-like flavor. Lastly, use an ice cream scooper to get even-sized cookies every time. And that’s it! With these little tweaks, the result is a cookie that’s textured on the outside, and soft and gooey on the inside. Absolutely perfect!",
-        "name": "The Best Chewy Chocolate Chip Cookies Recipe by Tasty",
-        "publisher": {
             "@type": "Organization",
-            "name": "Tasty",
+            "@id": "https://www.recipetineats.com/#organization",
+            "name": "RecipeTin Eats",
+            "url": "https://www.recipetineats.com/",
+            "sameAs": [
+                "https://www.facebook.com/RecipeTinEats",
+                "http://instagram.com/recipe_tin",
+                "https://www.linkedin.com/in/nagi-maehashi-9779648b",
+                "https://www.youtube.com/c/recipetineats",
+                "http://www.pinterest.com/recipetin/"
+            ],
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://tasty.co/favicon.ico"
+                "@id": "https://www.recipetineats.com/#logo",
+                "inLanguage": "en-US",
+                "url": "https://www.recipetineats.com/wp-content/uploads/2019/04/RecipeTinEats_logo_for_Knowledge_Graph_card.png",
+                "contentUrl": "https://www.recipetineats.com/wp-content/uploads/2019/04/RecipeTinEats_logo_for_Knowledge_Graph_card.png",
+                "width": 2591,
+                "height": 347,
+                "caption": "RecipeTin Eats"
+            },
+            "image": {
+                "@id": "https://www.recipetineats.com/#logo"
             }
         },
-        "thumbnailUrl": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/62298.jpg",
-        "uploadDate": "2017-07-27T00:14:06"
-    }
+        {
+            "@type": "WebSite",
+            "@id": "https://www.recipetineats.com/#website",
+            "url": "https://www.recipetineats.com/",
+            "name": "RecipeTin Eats",
+            "description": "Fast Prep, Big Flavours",
+            "publisher": {
+                "@id": "https://www.recipetineats.com/#organization"
+            },
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://www.recipetineats.com/?s={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                }
+            ],
+            "inLanguage": "en-US"
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#primaryimage",
+            "inLanguage": "en-US",
+            "url": "https://www.recipetineats.com/wp-content/uploads/2019/04/Broccoli-Pasta_5.jpg",
+            "contentUrl": "https://www.recipetineats.com/wp-content/uploads/2019/04/Broccoli-Pasta_5.jpg",
+            "width": 900,
+            "height": 1260,
+            "caption": "Cheesy broccoli pasta in a rustic blue bowl, ready to be eaten"
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#webpage",
+            "url": "https://www.recipetineats.com/quick-broccoli-pasta/",
+            "name": "Really Quick Broccoli Pasta | RecipeTin Eats",
+            "isPartOf": {
+                "@id": "https://www.recipetineats.com/#website"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#primaryimage"
+            },
+            "datePublished": "2021-10-18T09:30:00+00:00",
+            "dateModified": "2021-10-22T08:50:46+00:00",
+            "description": "A little bit lemony, a little bit cheesy and a whole lot of yum, Broccoli Pasta is an emergency quick dinner idea\u00a0or 2-in-1 veg carb side dish. 12 minute broccoli recipe!",
+            "breadcrumb": {
+                "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+                {
+                    "@type": "ReadAction",
+                    "target": [
+                        "https://www.recipetineats.com/quick-broccoli-pasta/"
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.recipetineats.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Broccoli recipes",
+                    "item": "https://www.recipetineats.com/category/broccoli-recipes/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Really Quick Broccoli Pasta"
+                }
+            ]
+        },
+        {
+            "@type": "Article",
+            "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#article",
+            "isPartOf": {
+                "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#webpage"
+            },
+            "author": {
+                "@id": "https://www.recipetineats.com/#/schema/person/1d495a057e0419b552333c8526d827a9"
+            },
+            "headline": "Really Quick Broccoli Pasta",
+            "datePublished": "2021-10-18T09:30:00+00:00",
+            "dateModified": "2021-10-22T08:50:46+00:00",
+            "wordCount": 1420,
+            "commentCount": 220,
+            "publisher": {
+                "@id": "https://www.recipetineats.com/#organization"
+            },
+            "image": {
+                "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.recipetineats.com/wp-content/uploads/2019/04/Broccoli-Pasta_5.jpg",
+            "articleSection": [
+                "Broccoli recipes",
+                "Emergency Recipes",
+                "One Pot Recipes",
+                "Pasta Recipes",
+                "Quick and Easy",
+                "Quick Dinner Recipes",
+                "Side Dishes",
+                "Vegetarian Recipes"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+                {
+                    "@type": "CommentAction",
+                    "name": "Comment",
+                    "target": [
+                        "https://www.recipetineats.com/quick-broccoli-pasta/#respond"
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "Person",
+            "@id": "https://www.recipetineats.com/#/schema/person/1d495a057e0419b552333c8526d827a9",
+            "name": "Nagi",
+            "image": {
+                "@type": "ImageObject",
+                "@id": "https://www.recipetineats.com/#personlogo",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/400004f5258d5b43d30deed3aa6e9566?s=96&d=https%3A%2F%2Fwww.recipetineats.com%2Fwp-content%2Fthemes%2Fonce-coupled-recipe-tin-eats%2Fassets%2Fimages%2Favatar-guest-temp-cache-bust-duplicate.png&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/400004f5258d5b43d30deed3aa6e9566?s=96&d=https%3A%2F%2Fwww.recipetineats.com%2Fwp-content%2Fthemes%2Fonce-coupled-recipe-tin-eats%2Fassets%2Fimages%2Favatar-guest-temp-cache-bust-duplicate.png&r=g",
+                "caption": "Nagi"
+            },
+            "description": "I believe you can make great food with everyday ingredients even if you\u2019re short on time and cost conscious. You just need to cook clever and get creative!",
+            "sameAs": [
+                "http:////www.recipetineats.com/about-me/"
+            ]
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Recipe",
+            "name": "Really Quick Broccoli Pasta",
+            "author": {
+                "@type": "Person",
+                "name": "Nagi"
+            },
+            "description": "Recipe video above. This is a great emergency meal OR carb + veg side for all those times when your cupboards are bare except for broccoli, pasta, and some kind of cheese. It&#39;s saucy without using tons of oil, and there&#39;s loads of sub options. Quick and utterly scrumptious - loaded with tons of broccoli!",
+            "datePublished": "2021-10-18T20:30:00+00:00",
+            "image": [
+                "https://www.recipetineats.com/wp-content/uploads/2019/04/Broccoli-Pasta_0.jpg",
+                "https://www.recipetineats.com/wp-content/uploads/2019/04/Broccoli-Pasta_0.jpg?w=500&h=500&crop=1",
+                "https://www.recipetineats.com/wp-content/uploads/2019/04/Broccoli-Pasta_0.jpg?w=500&h=375&crop=1",
+                "https://www.recipetineats.com/wp-content/uploads/2019/04/Broccoli-Pasta_0.jpg?w=480&h=270&crop=1"
+            ],
+            "recipeYield": [
+                "4"
+            ],
+            "prepTime": "PT5M",
+            "cookTime": "PT10M",
+            "totalTime": "PT15M",
+            "recipeIngredient": [
+                "350g / 12 oz   dried short pasta ((I used small shells))",
+                "2  broccoli heads ((BIG!))",
+                "1  cup shredded cheese (or more!)",
+                "2 tsp lemon zest",
+                "2 tbsp lemon juice ((or more!))",
+                "5 tbsp extra virgin olive oil",
+                "1/3 cup parmesan (, finely grated)",
+                "2  garlic cloves (, minced)",
+                "1 tsp mixed dried herbs ((or fresh!))",
+                "1/2 tsp+ red pepper flakes ((add more if you want spicy!))",
+                "1 tsp sugar",
+                "3/4 tsp salt",
+                "1/2 tsp pepper",
+                "More parmesan"
+            ],
+            "recipeInstructions": [
+                {
+                    "@type": "HowToStep",
+                    "text": "Cook pasta: Boil a large pot of water with 2 tsp salt, add pasta.",
+                    "name": "Cook pasta: Boil a large pot of water with 2 tsp salt, add pasta.",
+                    "url": "https://www.recipetineats.com/quick-broccoli-pasta/#wprm-recipe-36069-step-0-0"
+                },
+                {
+                    "@type": "HowToSection",
+                    "name": "While pasta is cooking:",
+                    "itemListElement": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "Chop broccoli: Chop broccoli into small florets.",
+                            "name": "Chop broccoli: Chop broccoli into small florets.",
+                            "url": "https://www.recipetineats.com/quick-broccoli-pasta/#wprm-recipe-36069-step-1-0"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Cook broccoli: Add broccoli into water 1 - 2 minutes before pasta is cooked.",
+                            "name": "Cook broccoli: Add broccoli into water 1 - 2 minutes before pasta is cooked.",
+                            "url": "https://www.recipetineats.com/quick-broccoli-pasta/#wprm-recipe-36069-step-1-1"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Sauce ingredients in jar: Place Sauce ingredients in a jar with lid.",
+                            "name": "Sauce ingredients in jar: Place Sauce ingredients in a jar with lid.",
+                            "url": "https://www.recipetineats.com/quick-broccoli-pasta/#wprm-recipe-36069-step-1-2"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Reserve pasta water: SCOOP OUT 1 cup pasta cooking water just before draining. Then drain and return pasta back into same pot on turned off stove.",
+                            "name": "Reserve pasta water: SCOOP OUT 1 cup pasta cooking water just before draining. Then drain and return pasta back into same pot on turned off stove.",
+                            "url": "https://www.recipetineats.com/quick-broccoli-pasta/#wprm-recipe-36069-step-1-3"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Add pasta water into Sauce: Add 1/2 cup pasta water to Pasta Sauce jar, shake well.",
+                            "name": "Add pasta water into Sauce: Add 1/2 cup pasta water to Pasta Sauce jar, shake well.",
+                            "url": "https://www.recipetineats.com/quick-broccoli-pasta/#wprm-recipe-36069-step-1-4"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Add Sauce &amp; Cheese to pasta: Pour Sauce and add cheese into pot with pasta.",
+                            "name": "Add Sauce &amp; Cheese to pasta: Pour Sauce and add cheese into pot with pasta.",
+                            "url": "https://www.recipetineats.com/quick-broccoli-pasta/#wprm-recipe-36069-step-1-5"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Stir then serve! Stir vigorously, adding more pasta water if required. Add more salt and pepper if required. Serve immediately, garnished with parmesan.",
+                            "name": "Stir then serve! Stir vigorously, adding more pasta water if required. Add more salt and pepper if required. Serve immediately, garnished with parmesan.",
+                            "url": "https://www.recipetineats.com/quick-broccoli-pasta/#wprm-recipe-36069-step-1-6"
+                        }
+                    ]
+                }
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.98",
+                "ratingCount": "72"
+            },
+            "recipeCategory": [
+                "Mains",
+                "Side"
+            ],
+            "recipeCuisine": [
+                "Western"
+            ],
+            "keywords": "Broccoli pasta, broccoli recipes, quick pasta",
+            "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "634 kcal",
+                "carbohydrateContent": "71 g",
+                "proteinContent": "23 g",
+                "fatContent": "29 g",
+                "saturatedFatContent": "9 g",
+                "cholesterolContent": "31 mg",
+                "sodiumContent": "768 mg",
+                "fiberContent": "6 g",
+                "sugarContent": "5 g",
+                "servingSize": "1 serving"
+            },
+            "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#recipe",
+            "isPartOf": {
+                "@id": "https://www.recipetineats.com/quick-broccoli-pasta/#article"
+            },
+            "mainEntityOfPage": "https://www.recipetineats.com/quick-broccoli-pasta/#webpage"
+        }
+    ]
 }
