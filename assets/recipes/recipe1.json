@@ -1,1 +1,329 @@
-{"@type":"Recipe","@context":"http://schema.org/","name":"Perfect Apple Pie","keywords":"perfect apple pie","recipeCategory":"Dessert","image":"https://images-gmi-pmc.edge-generalmills.com/93621836-3f2d-43ae-9b02-6fa9196ec5d1.jpg","description":"Our homemade apple pie is sure to be the best apple pie recipe you've made to date. For starters, you can make this warm, cozy, classic dessert in three simple steps, and it's made with the ultimate baking shortcut: Pillsbury™ Pie Crusts. Serve up this easy apple pie and enjoy the most classic dessert with family and friends. Whether you bake it for a holiday, a potluck or as a special weekend treat, this timeless recipe is guaranteed to spark joy.","recipeIngredient":["1  box (14.1 oz) refrigerated Pillsbury™ Pie Crusts (2 Count), softened as directed on box","6  cups thinly sliced, peeled apples (6 medium)","3/4  cup sugar","2  tablespoons all-purpose flour","3/4  teaspoon ground cinnamon","1/4  teaspoon salt","1/8  teaspoon ground nutmeg","1  tablespoon lemon juice"],"totalTime":"PT3H0M","prepTime":"PT0H30M","recipeYield":"8","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"764","bestRating":"5","worstRating":"1"},"video":{"@type":"VideoObject","name":"How to Make Perfect Apple Pie Video","thumbnailUrl":"https://images-gmi-pmc.edge-generalmills.com/14ccc9e3-8445-447e-b5b6-37873c4336c1.jpg","description":"A classic apple pie takes a shortcut with easy Pillsbury® unroll-fill refrigerated pie crust.","contentUrl":"https://www.pillsbury.com/videos/perfect-apple-pie","embedUrl":"https://www.youtube.com/embed/rIIYB-cg26s","uploadDate":"06/06/2018"},"author":{"@type":"Person","name":"Pillsbury Kitchens"},"recipeInstructions":[{"@type":"HowToStep","text":"Heat oven to 425°F. Place 1 pie crust in ungreased 9-inch glass pie plate. Press firmly against side and bottom.","image":"https://images-gmi-pmc.edge-generalmills.com/1e5c6bf1-4636-4c2d-ba35-b0a821c96d78.jpg"},{"@type":"HowToStep","text":"In large bowl, gently mix filling ingredients; spoon into crust-lined pie plate. Top with second crust. Wrap excess top crust under bottom crust edge, pressing edges together to seal; flute. Cut slits or shapes in several places in top crust.","image":"https://images-gmi-pmc.edge-generalmills.com/e7f8a9e3-eb34-4e2c-ac4c-3a557694a6e4.jpg"},{"@type":"HowToStep","text":"Bake 40 to 45 minutes or until apples are tender and crust is golden brown. Cover edge of crust with 2- to 3-inch wide strips of foil after first 15 to 20 minutes of baking to prevent excessive browning. Cool on cooling rack at least 2 hours before serving.","image":"https://images-gmi-pmc.edge-generalmills.com/5862230f-ef20-442b-8510-78e5a9a7b6fd.jpg"}],"nutrition":{"@type":"NutritionInformation","calories":"230 ","carbohydrateContent":"43 g","cholesterolContent":"0 mg","fatContent":"1 ","fiberContent":"1 g","proteinContent":"1 g","saturatedFatContent":"2 1/2 g","servingSize":"1 Serving","sodiumContent":"200 mg","sugarContent":"27 g","transFatContent":"0 g"},"dateCreated":"01/03/2005"}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "@id": "https://www.recipetineats.com/#organization",
+            "name": "RecipeTin Eats",
+            "url": "https://www.recipetineats.com/",
+            "sameAs": [
+                "https://www.facebook.com/RecipeTinEats",
+                "http://instagram.com/recipe_tin",
+                "https://www.linkedin.com/in/nagi-maehashi-9779648b",
+                "https://www.youtube.com/c/recipetineats",
+                "http://www.pinterest.com/recipetin/"
+            ],
+            "logo": {
+                "@type": "ImageObject",
+                "@id": "https://www.recipetineats.com/#logo",
+                "inLanguage": "en-US",
+                "url": "https://www.recipetineats.com/wp-content/uploads/2019/04/RecipeTinEats_logo_for_Knowledge_Graph_card.png",
+                "contentUrl": "https://www.recipetineats.com/wp-content/uploads/2019/04/RecipeTinEats_logo_for_Knowledge_Graph_card.png",
+                "width": 2591,
+                "height": 347,
+                "caption": "RecipeTin Eats"
+            },
+            "image": {
+                "@id": "https://www.recipetineats.com/#logo"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://www.recipetineats.com/#website",
+            "url": "https://www.recipetineats.com/",
+            "name": "RecipeTin Eats",
+            "description": "Fast Prep, Big Flavours",
+            "publisher": {
+                "@id": "https://www.recipetineats.com/#organization"
+            },
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://www.recipetineats.com/?s={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                }
+            ],
+            "inLanguage": "en-US"
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#primaryimage",
+            "inLanguage": "en-US",
+            "url": "https://www.recipetineats.com/wp-content/uploads/2016/03/Pad-See-Ew-Thai-Noodles_3.jpg",
+            "contentUrl": "https://www.recipetineats.com/wp-content/uploads/2016/03/Pad-See-Ew-Thai-Noodles_3.jpg",
+            "width": 1200,
+            "height": 1680,
+            "caption": "Chopsticks pulling up Pad See Ew"
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#webpage",
+            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/",
+            "name": "Pad See Ew (Thai Stir Fried Noodles) | RecipeTin Eats",
+            "isPartOf": {
+                "@id": "https://www.recipetineats.com/#website"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#primaryimage"
+            },
+            "datePublished": "2021-10-27T20:00:00+00:00",
+            "dateModified": "2021-10-27T20:11:25+00:00",
+            "description": "An easy, authentic recipe for Pad See Ew, one of the most popular stir fried Thai noodles with chicken. Tastes just like what you get at Thai restaurants!",
+            "breadcrumb": {
+                "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+                {
+                    "@type": "ReadAction",
+                    "target": [
+                        "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/"
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.recipetineats.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Cuisines",
+                    "item": "https://www.recipetineats.com/category/cuisines/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Thai Recipes",
+                    "item": "https://www.recipetineats.com/category/cuisines/thai-recipes/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Pad See Ew (Thai Stir Fried Noodles)"
+                }
+            ]
+        },
+        {
+            "@type": "Article",
+            "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#article",
+            "isPartOf": {
+                "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#webpage"
+            },
+            "author": {
+                "@id": "https://www.recipetineats.com/#/schema/person/1d495a057e0419b552333c8526d827a9"
+            },
+            "headline": "Pad See Ew (Thai Stir Fried Noodles)",
+            "datePublished": "2021-10-27T20:00:00+00:00",
+            "dateModified": "2021-10-27T20:11:25+00:00",
+            "wordCount": 1999,
+            "commentCount": 743,
+            "publisher": {
+                "@id": "https://www.recipetineats.com/#organization"
+            },
+            "image": {
+                "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.recipetineats.com/wp-content/uploads/2016/03/Pad-See-Ew-Thai-Noodles_3.jpg",
+            "articleSection": [
+                "15 Minute Meals",
+                "Asian Recipes",
+                "Asian Takeout",
+                "Chicken",
+                "Chicken Breast",
+                "Main Dishes",
+                "Most Popular",
+                "Noodles",
+                "Quick and Easy",
+                "Quick Dinner Recipes",
+                "Thai Recipes"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+                {
+                    "@type": "CommentAction",
+                    "name": "Comment",
+                    "target": [
+                        "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#respond"
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "Person",
+            "@id": "https://www.recipetineats.com/#/schema/person/1d495a057e0419b552333c8526d827a9",
+            "name": "Nagi",
+            "image": {
+                "@type": "ImageObject",
+                "@id": "https://www.recipetineats.com/#personlogo",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/400004f5258d5b43d30deed3aa6e9566?s=96&d=https%3A%2F%2Fwww.recipetineats.com%2Fwp-content%2Fthemes%2Fonce-coupled-recipe-tin-eats%2Fassets%2Fimages%2Favatar-guest-temp-cache-bust-duplicate.png&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/400004f5258d5b43d30deed3aa6e9566?s=96&d=https%3A%2F%2Fwww.recipetineats.com%2Fwp-content%2Fthemes%2Fonce-coupled-recipe-tin-eats%2Fassets%2Fimages%2Favatar-guest-temp-cache-bust-duplicate.png&r=g",
+                "caption": "Nagi"
+            },
+            "description": "I believe you can make great food with everyday ingredients even if you\u2019re short on time and cost conscious. You just need to cook clever and get creative!",
+            "sameAs": [
+                "http:////www.recipetineats.com/about-me/"
+            ]
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Recipe",
+            "name": "Pad See Ew - Thai Stir Fried Noodles",
+            "author": {
+                "@type": "Person",
+                "name": "Nagi | RecipeTin Eats"
+            },
+            "description": "Recipe video above. Pad See Ew (which means Stir Fried Soy Sauce noodles) is one of the most popular Thai street foods. Traditionally made with Sen Yai which are wide, thin rice noodles which are not that easy to come by. So use dried rice noodles instead - I&#39;ve eaten enough Pad See Ew at Thai restaurants to assure you that there is no compromise on flavour!KEY TIP FOR SUCCESS: Cook the chicken separately from the noodles. Home stoves are no match for the fierce heat of restaurant and street vendor burners. You have to cook separately to get caramelisation on the noodles which is key for authentic flavour. If you don&#39;t, the noodles will just stew and your dish will lack flavour!",
+            "datePublished": "2021-10-28T07:00:00+00:00",
+            "image": [
+                "https://www.recipetineats.com/wp-content/uploads/2019/03/Pad-See-Ew_2-SQ.jpg",
+                "https://www.recipetineats.com/wp-content/uploads/2019/03/Pad-See-Ew_2-SQ.jpg?w=500&h=500&crop=1",
+                "https://www.recipetineats.com/wp-content/uploads/2019/03/Pad-See-Ew_2-SQ.jpg?w=500&h=375&crop=1",
+                "https://www.recipetineats.com/wp-content/uploads/2019/03/Pad-See-Ew_2-SQ.jpg?w=480&h=270&crop=1"
+            ],
+            "recipeYield": [
+                "2",
+                "2 - 3 people"
+            ],
+            "prepTime": "PT8M",
+            "cookTime": "PT10M",
+            "totalTime": "PT18M",
+            "recipeIngredient": [
+                "200g / 7 oz  dried wide rice stick noodles (, or 15 oz / 450g fresh wide flat rice noodles (Sen Yai) (Note 1))",
+                "2 tbsp dark soy sauce ((Note 2))",
+                "2 tbsp oyster sauce",
+                "2 tsp soy sauce ((all purpose or light, Note 3))",
+                "2 tsp white vinegar ((plain white vinegar))",
+                "2 tsp sugar ((any type))",
+                "2 tbsp water",
+                "3 tbsp peanut or vegetable oil (, separated)",
+                "2 cloves garlic cloves, very finely chopped",
+                "1 cup / 150g / 5oz   chicken thighs ((boneless, skinless), sliced (Note 4))",
+                "1  large egg",
+                "4  stems Chinese broccoli ((Note 5))"
+            ],
+            "recipeInstructions": [
+                {
+                    "@type": "HowToSection",
+                    "name": "Preparation:",
+                    "itemListElement": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "Chinese Broccoli - trim ends, cut into 7.5cm/3&quot; pieces. Separate leaves from stems. Cut thick stems in half vertically so they&#39;re no wider than 0.8cm / 0.3&quot; thick.",
+                            "name": "Chinese Broccoli - trim ends, cut into 7.5cm/3&quot; pieces. Separate leaves from stems. Cut thick stems in half vertically so they&#39;re no wider than 0.8cm / 0.3&quot; thick.",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-0-0"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Noodles - Prepare according to packet directions and drain. Time it so they're cooked just before using - do not leave cooked rice noodles&nbsp;lying around, they break in the wok.",
+                            "name": "Noodles - Prepare according to packet directions and drain. Time it so they're cooked just before using - do not leave cooked rice noodles&nbsp;lying around, they break in the wok.",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-0-1"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Sauce - Mix ingredients until sugar dissolves.",
+                            "name": "Sauce - Mix ingredients until sugar dissolves.",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-0-2"
+                        }
+                    ]
+                },
+                {
+                    "@type": "HowToSection",
+                    "name": "Cooking:",
+                    "itemListElement": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "Heat oil: Heat 1 tbsp oil in a very large heavy based skillet or wok over high heat.",
+                            "name": "Heat oil: Heat 1 tbsp oil in a very large heavy based skillet or wok over high heat.",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-1-0"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Cook garlic and chicken: Add garlic, cook 15 seconds. Add chicken, cook until it mostly changes from pink to white.",
+                            "name": "Cook garlic and chicken: Add garlic, cook 15 seconds. Add chicken, cook until it mostly changes from pink to white.",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-1-1"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Chinese broccoli STEMS: Add Chinese broccoli stems, cook until chicken is almost cooked through.",
+                            "name": "Chinese broccoli STEMS: Add Chinese broccoli stems, cook until chicken is almost cooked through.",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-1-2"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Chinese broccoli LEAVES: Add Chinese broccoli leaves, cook until just wilted.",
+                            "name": "Chinese broccoli LEAVES: Add Chinese broccoli leaves, cook until just wilted.",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-1-3"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Scramble egg: Push everything to one side, crack egg in and scramble.",
+                            "name": "Scramble egg: Push everything to one side, crack egg in and scramble.",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-1-4"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "REMOVE chicken from wok: Remove everything in the wok onto a plate (scrape wok clean).",
+                            "name": "REMOVE chicken from wok: Remove everything in the wok onto a plate (scrape wok clean).",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-1-5"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Caramelise noodles: Return wok to stove, heat 2 tbsp oil over high heat until it starts smoking (HOT is key!).\u00a0Add noodles and Sauce. Toss as few times as possible to disperse Sauce and make edges of noodles caramelise - about 1 to 1 1/2 minutes.",
+                            "name": "Caramelise noodles: Return wok to stove, heat 2 tbsp oil over high heat until it starts smoking (HOT is key!).\u00a0Add noodles and Sauce. Toss as few times as possible to disperse Sauce and make edges of noodles caramelise - about 1 to 1 1/2 minutes.",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-1-6"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Add chicken back in: Quickly add chicken and veg back in, and toss to disperse. Serve immediately!",
+                            "name": "Add chicken back in: Quickly add chicken and veg back in, and toss to disperse. Serve immediately!",
+                            "url": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#wprm-recipe-25350-step-1-7"
+                        }
+                    ]
+                }
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.96",
+                "ratingCount": "217"
+            },
+            "recipeCategory": [
+                "Noodles",
+                "Stir Fry"
+            ],
+            "recipeCuisine": [
+                "Thai"
+            ],
+            "keywords": "Pad see ew, Thai stir fried noodles",
+            "nutrition": {
+                "@type": "NutritionInformation",
+                "servingSize": "260 g",
+                "calories": "510 kcal",
+                "carbohydrateContent": "73.4 g",
+                "proteinContent": "25.1 g",
+                "fatContent": "13.2 g",
+                "saturatedFatContent": "2 g",
+                "cholesterolContent": "105 mg",
+                "sodiumContent": "406 mg",
+                "fiberContent": "1.6 g",
+                "sugarContent": "2.9 g"
+            },
+            "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#recipe",
+            "isPartOf": {
+                "@id": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#article"
+            },
+            "mainEntityOfPage": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/#webpage"
+        }
+    ]
+}

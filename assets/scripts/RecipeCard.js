@@ -2,7 +2,7 @@ class RecipeCard extends HTMLElement {
   constructor() {
     // Part 1 Expose - TODO
     super();
-    this.attachShadow({mode: 'open'});
+    this.attachShadow({ mode: 'open' });
     // You'll want to attach the shadow DOM here
   }
 
@@ -90,21 +90,21 @@ class RecipeCard extends HTMLElement {
     const card = document.createElement('article');
 
     let thumbnailImg = document.createElement("img");
-    let tempKey = searchForKey(data,"thumbnailUrl");
+    let tempKey = searchForKey(data, "thumbnailUrl");
 
-    thumbnailImg.setAttribute("src",tempKey);
-    thumbnailImg.setAttribute("alt","Recipe Title");
+    thumbnailImg.setAttribute("src", tempKey);
+    thumbnailImg.setAttribute("alt", "Recipe Title");
     card.appendChild(thumbnailImg);
 
     //title
     let titlep = document.createElement("p");
     let titleLink = document.createElement("a");
-    
-    titleLink.setAttribute("href",getUrl(data));
-    let titleText = searchForKey(data,"headline");
+
+    titleLink.setAttribute("href", getUrl(data));
+    let titleText = searchForKey(data, "headline");
     titleLink.innerHTML = titleText;
     titlep.className = "title";
-    
+
     titlep.appendChild(titleLink);
     card.appendChild(titlep);
 
@@ -117,11 +117,43 @@ class RecipeCard extends HTMLElement {
     //Get rating
     let ratingDiv = document.createElement("div");
     ratingDiv.className = "rating";
-    let ratingVal = searchForKey(data,"ratingValue");
-    if(ratingVal){
+    let ratingVal = searchForKey(data, "ratingValue");
+    if (ratingVal) {
+      let ratingNum = searchForKey(data, "ratingCount");
+      let ratingSpanOne = document.createElement("span");
+      let ratingImg = document.createElement("img");
+      let ratingSpanTwo = document.createElement("span");
+
+      ratingSpanOne.innerHTML = ratingVal;
+
+      if (ratingVal <= 5 && ratingVal > 4.5) {
+        ratingImg.setAttribute("src", "../assets/images/icons/5-star.svg");
+        ratingImg.setAttribute("alt", "5 star");
+      } else if (ratingVal <= 4.5 && ratingVal > 3.5) {
+        ratingImg.setAttribute("src", "../assets/images/icons/4-star.svg");
+        ratingImg.setAttribute("alt", "4 star");
+      } else if (ratingVal <= 3.5 && ratingVal > 2.5) {
+        ratingImg.setAttribute("src", "../assets/images/icons/3-star.svg");
+        ratingImg.setAttribute("alt", "3 star");
+      } else if (ratingVal <= 2.5 && ratingVal > 1.5) {
+        ratingImg.setAttribute("src", "../assets/images/icons/2-star.svg");
+        ratingImg.setAttribute("alt", "2 star");
+      } else if (ratingVal <= 1.5 && ratingVal > 0) {
+        ratingImg.setAttribute("src", "../assets/images/icons/1-star.svg");
+        ratingImg.setAttribute("alt", "1 star");
+      } else if (ratingVal == 0) {
+        ratingImg.setAttribute("src", "../assets/images/icons/0-star.svg");
+        ratingImg.setAttribute("alt", "0 star");
+      }
+
+      ratingSpanTwo.innerHTML = "(" + ratingNum + ")";
+
+      ratingDiv.appendChild(ratingSpanOne);
+      ratingDiv.appendChild(ratingImg);
+      ratingDiv.appendChild(ratingSpanTwo);
 
     }
-    else{
+    else {
       let span_No = document.createElement("span");
       span_No.innerHTML = "No Reviews";
       ratingDiv.appendChild(span_No);
@@ -129,25 +161,18 @@ class RecipeCard extends HTMLElement {
 
     card.appendChild(ratingDiv);
 
-
-
-
-
-
     //getTime
     let time = document.createElement("time");
-    let tempTime = convertTime(searchForKey(data,"totalTime"));
+    let tempTime = convertTime(searchForKey(data, "totalTime"));
     time.innerHTML = tempTime
     card.appendChild(time);
 
     //getIngredients
     let ingredientsP = document.createElement("p");
     ingredientsP.className = "ingredients";
-    ingredientsP.innerHTML = createIngredientList(searchForKey(data,"recipeIngredient"));
+    ingredientsP.innerHTML = createIngredientList(searchForKey(data, "recipeIngredient"));
     card.appendChild(ingredientsP);
-
-
-
+    
 
     this.shadowRoot.appendChild(styleElem);
     this.shadowRoot.appendChild(card);
@@ -166,7 +191,7 @@ class RecipeCard extends HTMLElement {
 
     // Part 1 Expose - TODO
 
-    
+
   }
 }
 
@@ -294,6 +319,3 @@ function createIngredientList(ingredientArr) {
 // Define the Class so you can use it as a custom element.
 // This is critical, leave this here and don't touch it
 customElements.define('recipe-card', RecipeCard);
-
-
-
